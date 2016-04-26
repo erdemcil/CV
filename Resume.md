@@ -4,7 +4,7 @@
 Education
 --------------
 2011-2016 (expected)  
-&nbsp;&nbsp;&nbsp;&nbsp; **BSc., Software Engineering**; Maltepe University (English)
+&nbsp;&nbsp;&nbsp;&nbsp; **BSc, Software Engineering**; Maltepe University (English)
 
 2009-2011  
 &nbsp;&nbsp;&nbsp;&nbsp; Erkut Soyak High School.
