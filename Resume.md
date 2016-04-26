@@ -56,7 +56,7 @@ Language Skills
 
 Hobbies & Interests
 ----------------------------
-Playing electric guitar, reading books, playing video games,programming. I like following up to date technological developments.
+Playing electric guitar, reading books, playing video games, programming. I like following up to date technological developments.
 
 Contact Information & Other   
 -----------------------------------------  
