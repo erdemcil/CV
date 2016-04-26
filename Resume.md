@@ -28,7 +28,7 @@ Computer Skills
 ----------------------
 
 | Skills                                 | Level         |
-| -------------------------------------- |:-------------:|
+| -------------------------------------- |---------------|
 | C/C++ programming languages            | Medium        |
 | C# programming language                | Medium        |
 | Java programming language              | Beginner      |
