@@ -62,14 +62,14 @@ Contact Information & Other
 -----------------------------------------  
 
 
->  Date & place birth : 1992 / Istanbul  
->  Nationality : Turkish  
->  Martial Status : Single  
->  Driving License : B (2010)  
->  Last Update : November 21, 2015  
->  &nbsp;  
->  Address : Atatürk Mah. Firat Cad.   
->  Gardenya 6/A Daire: 3   Atasehir/Istanbul  
->  Turkey  
->>  Phone Number: (+90) 537 419 43 93
->>  E-mail: erdemchill@gmail.com
+  Date & place birth : 1992 / Istanbul  
+  Nationality : Turkish  
+  Martial Status : Single  
+  Driving License : B (2010)  
+  Last Update : November 21, 2015  
+  &nbsp;  
+  Address : Atatürk Mah. Firat Cad.   
+  Gardenya 6/A Daire: 3   Atasehir/Istanbul  
+  Turkey  
+>  Phone Number: (+90) 537 419 43 93
+>  E-mail: erdemchill@gmail.com
