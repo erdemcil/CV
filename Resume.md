@@ -3,14 +3,14 @@
 
 Education
 --------------
-2011-2016 (expected)
-:   **BSc., Software Engineering**; Maltepe University (English)
+2011-2016 (expected)  
+&nbsp;&nbsp;&nbsp;&nbsp; **BSc., Software Engineering**; Maltepe University (English)
 
-2009 - 2011
-:   Erkut Soyak High School.
+2009-2011  
+&nbsp;&nbsp;&nbsp;&nbsp; Erkut Soyak High School.
 
-2005 - 2009
-:   Private Sezin High School (English teaching) 
+2005-2009  
+&nbsp;&nbsp;&nbsp;&nbsp; Private Sezin High School (English teaching) 
 
 
 Specifications & Qualifications
@@ -62,14 +62,14 @@ Contact Information & Other
 -----------------------------------------  
 
 
->  Date & place birth : 1992 / Istanbul
->  Nationality : Turkish
->  Martial Status : Single
->  Driving License : B (2010)
->  Last Update : November 21, 2015
->  &nbsp;
->  Address : Atatürk Mah. Firat Cad. 
->  Gardenya 6/A Daire: 3   Atasehir/Istanbul
->  Turkey
+>  Date & place birth : 1992 / Istanbul  
+>  Nationality : Turkish  
+>  Martial Status : Single  
+>  Driving License : B (2010)  
+>  Last Update : November 21, 2015  
+>  &nbsp;  
+>  Address : Atatürk Mah. Firat Cad.   
+>  Gardenya 6/A Daire: 3   Atasehir/Istanbul  
+>  Turkey  
 >>  Phone Number: (+90) 537 419 43 93
 >>  E-mail: erdemchill@gmail.com
