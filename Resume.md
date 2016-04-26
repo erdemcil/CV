@@ -1,4 +1,4 @@
-**Erdem Çil**
+**Erdem Ã‡il**
 ============
 
 Education
@@ -68,8 +68,8 @@ Contact Information & Other
 >  Driving License : B (2010)
 >  Last Update : November 21, 2015
 >  &nbsp;
->  Address : Atatürk Mah. Fýrat Cad. 
->  Gardenya 6/A Daire: 3   Ataþehir/Ýstanbul
+>  Address : AtatÃ¼rk Mah. Firat Cad. 
+>  Gardenya 6/A Daire: 3   AtaÃ¾ehir/Istanbul
 >  Turkey
 >>  Phone Number: (+90) 537 419 43 93
 >>  E-mail: erdemchill@gmail.com
