@@ -24,7 +24,7 @@ Ruby on Rails via Ruby programming language in some projects.)
 * Sticking on naming conventions while developing a software product (Forexample; Hungarian Notation).
 * Effective using of Windows OS, IOS, Android OS as operating systems. As office tools; Microsoft Office Word, Microsoft Office Excel,
 Microsoft Office PowerPoint. As developper tools and environment; Microsoft Visual Studio, Eclipse, Codeblocks, Android Studio. Project Management and Documentation tools; Microsoft Project, Microsoft Visio, Smartdraw. Basic knowledge about; Adobe Photoshop, Adobe Dreamweaver.
-*Knowledge about Database Management and Coding Platforms as; MySql Database Server, Microsoft SQL Database Server and SQLite.
+* Knowledge about Database Management and Coding Platforms as; MySql Database Server, Microsoft SQL Database Server and SQLite.
 
 
 
