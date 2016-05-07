@@ -18,12 +18,14 @@ Education
 Specifications & Qualifications
 -------------------------------------------
 * Knowledge about Agile Software Development methodologies (Especially studies on Scrum Methodology).
-In a university project, I also experienced as ascrum master.
+In a university project, I also experienced as a scrum master.
 * Capability of using different kinds of software development languages (Forexample; 
-Ruby on Rails via Ruby programming language in some projects.
+Ruby on Rails via Ruby programming language in some projects.)
 * Sticking on naming conventions while developing a software product (Forexample; Hungarian Notation).
-* Effective using of Windows OS, IOS, Android OS as operating systems.Microsoft Office Word, Microsoft Office Excel,
-Microsoft Office PowerPoint,Microsoft Visual Studio, Microsoft Visio, Eclipse.
+* Effective using of Windows OS, IOS, Android OS as operating systems. As office tools; Microsoft Office Word, Microsoft Office Excel,
+Microsoft Office PowerPoint. As developper tools and environment; Microsoft Visual Studio, Eclipse, Codeblocks, Android Studio. Project Management and Documentation tools; Microsoft Project, Microsoft Visio, Smartdraw. Basic knowledge about; Adobe Photoshop, Adobe Dreamweaver.
+*Knowledge about Database Management and Coding Platforms as; MySql Database Server, Microsoft SQL Database Server and SQLite.
+
 
 
 Computer Skills
@@ -67,8 +69,7 @@ Contact Information & Other
   Date & place birth : 1992 / Istanbul  
   Nationality : Turkish  
   Martial Status : Single  
-  Driving License : B (2010)  
-  Last Update : November 21, 2015  
+  Driving License : B (2010)
   &nbsp;  
   Address : Atatürk Mah. Firat Cad.   
   Gardenya 6/A Daire: 3   Atasehir/Istanbul  
