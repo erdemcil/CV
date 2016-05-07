@@ -11,7 +11,7 @@ Education
 2009-2011  
 &nbsp;&nbsp;&nbsp;&nbsp; Erkut Soyak High School.
 
-2005-2009  
+2006-2009  
 &nbsp;&nbsp;&nbsp;&nbsp; Private Sezin High School (English teaching) 
 
 
