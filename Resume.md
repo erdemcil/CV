@@ -60,9 +60,9 @@ Language Skills
 
 Professional Experience
 -----------------------------
-_*Intern*_
-Zebramo Inc.
-June 2016 - August 2016
+_*Intern*_  
+Zebramo Inc.  
+June 2016 - August 2016  
 * Back-end development
 * Android development
 * Business solutions for database issues
