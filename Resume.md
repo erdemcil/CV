@@ -18,10 +18,9 @@ Education
 Specifications & Qualifications
 -------------------------------------------
 * Knowledge about Agile Software Development methodologies (Especially studies on Scrum Methodology). In a university project, I also experienced as a scrum master.
-* Effective using of Windows OS, IOS, Android OS as operating systems. As office tools; Microsoft Office Word, Microsoft Office Excel, Microsoft Office PowerPoint. As developper tools and environment; Microsoft Visual Studio, Eclipse, Codeblocks, Android Studio. Project Management and Documentation tools; Microsoft Project, Microsoft Visio, Smartdraw. Basic knowledge about; Adobe Photoshop, Adobe Dreamweaver.
+* Effective using of Linux, Windows, IOS, Android as operating systems. As office tools; LibreOffice, Microsoft Office Word, Microsoft Office Excel, Microsoft Office PowerPoint. As developper tools and environment; Microsoft Visual Studio, Eclipse, Codeblocks, Android Studio. Project Management and Documentation tools; Microsoft Project, Microsoft Visio, Smartdraw. Basic knowledge about; Adobe Photoshop, Adobe Dreamweaver.
 * Knowledge about Database Management and Coding Platforms as; MySql Database Server, Microsoft SQL Database Server and SQLite.
-* Capability of using different kinds of software development languages (Forexample; 
-Ruby on Rails via Ruby programming language in some projects).
+* Capability of using different kinds of software development languages.
 * Sticking on naming conventions while developing a software product (Forexample; Hungarian Notation).
 
 
@@ -34,14 +33,17 @@ Computer Skills
 | C/C++ programming languages            | Medium        |
 | C# programming language                | Medium        |
 | Java programming language              | Beginner      |
-| PHP server-side programming language   | Medium        |
+| Android Development                    | Medium        |
+| Ruby on Rails                          | Medium        |
+| Python                                 | Beginner      |
+| PHP                                    | Medium        |
 | HTML, CSS, XML                         | Medium        |
 
 
 Courses & Certificates
 -------------------------------------
 2014
-*   msHOWTO
+* msHOWTO
 :  Cloud Computing and Security at Maltepe University Faculty of Engineering And Natural Science. - 03.2014
 
 2013
@@ -55,6 +57,15 @@ Language Skills
 | Turkish    | Native   |
 | English    | Advanced |
 | French     | Beginner |
+
+Professional Experience
+-----------------------------
+_*Intern*_
+Zebramo Inc.
+June 2016 - August 2016
+* Back-end development
+* Android development
+* Business solutions for database issues
 
 Hobbies & Interests
 ----------------------------
