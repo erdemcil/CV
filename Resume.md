@@ -5,7 +5,7 @@
 
 Education
 --------------
-2011-2016 
+2011-2016  
 &nbsp;&nbsp;&nbsp;&nbsp; **BSc, Software Engineering**; Maltepe University (English)
 
 2009-2011  
