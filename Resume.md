@@ -86,5 +86,5 @@ Contact Information & Other
   Address : Atatürk Mah. Firat Cad.   
   Gardenya 6/A Daire: 3   Atasehir/Istanbul  
   Turkey  
->  Phone Number: (+90) 537 419 43 93  
+>  Phone Number: (+48) 577 842 079
 >  E-mail: erdemchill@gmail.com
