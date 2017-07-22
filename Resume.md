@@ -5,7 +5,7 @@
 
 Education
 --------------
-2017-2019 (Expected) 
+2017-2019 (Expected)   
 &nbsp;&nbsp;&nbsp;&nbsp; **MSc, Computer Science: Computer Systems and Networks**; Warsaw University of Technology (English)
 
 2011-2016  
