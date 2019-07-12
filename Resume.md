@@ -72,7 +72,7 @@ June 2016 - August 2016
 
 Hobbies & Interests
 ----------------------------
-Playing electric guitar, reading books, playing video games, programming. I like following up to date technological developments.
+Travelling, swimming, reading books, programming. I like following up to date technological developments and space.
 
 Contact Information & Other   
 -----------------------------------------  
@@ -83,8 +83,8 @@ Contact Information & Other
   Martial Status : Single  
   Driving License : B (2010)
   &nbsp;  
-  Address : Atatürk Mah. Firat Cad.   
-  Gardenya 6/A Daire: 3   Atasehir/Istanbul  
-  Turkey  
+  Address : Wolska 87
+  Flat no:61  / Warszawa  
+  Poland  
 >  Phone Number: (+48) 577 842 079  
 >  E-mail: erdemchill@gmail.com
