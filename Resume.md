@@ -83,8 +83,8 @@ Contact Information & Other
   Martial Status : Single  
   Driving License : B (2010)
   &nbsp;  
-  Address : Wolska 87
-  Flat no:61  / Warszawa  
+  Address : Wolska 87  
+  Flat no:61 / Warszawa  
   Poland  
   Post Code: 01-229
 >  Phone Number: (+48) 577 842 079  
