@@ -85,8 +85,7 @@ Contact Information & Other
   &nbsp;  
   Address : Wolska 87
   Flat no:61  / Warszawa  
-  Poland
-  &nbsp;
+  Poland  
   Post Code: 01-229
 >  Phone Number: (+48) 577 842 079  
 >  E-mail: erdemchill@gmail.com
