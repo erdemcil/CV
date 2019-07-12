@@ -84,8 +84,8 @@ Contact Information & Other
   Driving License : B (2010)
   &nbsp;  
   Address : Wolska 87  
-  Flat no:61 / Warszawa  
-  Poland  
+  &nbsp;&nbsp;Flat no:61 / Warszawa  
+  &nbsp;&nbsp;Poland  
   Post Code: 01-229
 >  Phone Number: (+48) 577 842 079  
 >  E-mail: erdemchill@gmail.com
